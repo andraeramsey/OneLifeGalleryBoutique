@@ -1,0 +1,13 @@
+body {
+	/*temporay background*/
+	/* background-image: url("http://www.wujinshike.com/data/wallpapers/110/WDF_1534578.jpg");*/
+	background-image: url("../img/temp_bkgrnd.jpg") ;
+	min-height: 500px;
+    /* Set background image to fixed (don't scroll along with the page) */
+    background-attachment: fixed;
+
+    background-position: center;
+
+    background-repeat: no-repeat;
+    background-size: cover;
+}
